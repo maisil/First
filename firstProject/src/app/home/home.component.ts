@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NgFor } from '@angular/common';
+import { Product } from '../product';
 @Component({
   selector: 'app-home',
   standalone: true,
